@@ -13,11 +13,11 @@ My project is a device that can be used to create a practically inexhaustible su
 
 ### Components
 ```markdown
-1.	Electrostatic Nozzle (with charge controller) – atomize output spray particles in the range of 40	to 120 microns (for variable dwell time)
+1.	Electrostatic Nozzle (with charge controller) – atomize output spray particles in the range of 40 to 120 microns (for variable dwell time)
 2.	Tank or Container (normal) /(with a HOCL Generator) – may be combined
 3.	Electrolysis Cells and Electrodes (Ground and Negative)
 4.	Charging Module or Voltage Generator (source Battery / Electric Supply)
-5.	Pumpand/or Motor, Compressor (pulls the liquid from the container for siphoning – applying 	force to the solution which atomizes with the nozzles)
+5.	Pumpand/or Motor, Compressor (pulls the liquid from the container for siphoning – applying force to the solution which atomizes with the nozzles)
 6.	Charging Ring (just behind atomizer nozzle)–generates all ions positive
 7.	Trigger and/or Switch
 8.	Pipe
