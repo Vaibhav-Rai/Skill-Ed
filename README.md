@@ -41,8 +41,5 @@ Hypochlorous acid (HOCL) is a green, safe, environmentally friendly and fully bi
 
 
 
-`_config.yml`
-
-**Bold** and _Italic_ and `Code` text
-
+**Bold** and _Italic_
 [Link](url) and ![Image](src)
