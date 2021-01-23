@@ -4,6 +4,7 @@ Youtube Link: [Vaibhav's Intro](https://www.youtube.com/embed/TYU8wGzVV98)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TYU8wGzVV98" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+&nbsp  
 
 ## My Project - Electrostatic Spray Gun (360° Coverage)
 My project is a device that can be used to create a practically inexhaustible supply of this disinfecting solution (HOCL) on-site and on-demand in a matter of just minutes and at no cost. All you need is Salt, Electricity and Water. This generator can then be designed into a tank which will be combined with the Electrostatic Spray Gun.
@@ -21,6 +22,7 @@ My project is a device that can be used to create a practically inexhaustible su
 9.	Casing
 10.	Charging / Power Socket
 ```
+
 ### Description
 ```markdown
 Based on the nature's law, wherein Opposite charges attract and Like charges repel each other, this electrostatic spraying system works. Electrostatic spray surface disinfection involves spraying electrostatically charged particles (of water-based disinfectant solutions) onto surfaces that can forcefully stick to and coat the objects or any surface they're targeted at. The nature of the Electrostatic charged particles permits it to coat evenly on uneven shaped objects surfaces even if the particles are only sprayed from one side. As the chemical exits from the electrostatic sprayer, it's given a positive electrical charge. So, the output droplets become attracted to all negative surfaces, covering the visible area, underside and backside, with the sanitizing/disinfectant agent. Surfaces that are already covered repel the spray particles to cover more surface area and thus the sanitizing/disinfectant solution never overlaps each other, thus giving this mechanism the desired efficiency and effectiveness. After the spray is applied, the sanitizing agent attempts to disinfect the covered surfaces. Thus, electrostatic sprayer can be one of the most effective and efficient solution for disinfectant sprayer mechanism. 
