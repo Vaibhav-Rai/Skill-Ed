@@ -45,7 +45,7 @@ Based on the nature's law, wherein Opposite charges attract and Like charges rep
 #### Benefits over other spray technologies: 
 •	Reduces time taken (up to 50%) to cover & disinfect all surfaces and hard-to-reach places 
 •	Improves infection control and the spread of microbes 
-•	Applies chemicals in a more efficient & controlled manner, eliminating the risk of chemical 	overuse 
+•	Applies chemicals in a more efficient & controlled manner, eliminating the risk of chemical overuse 
 •	Distant targets and unreachable corners can be conveniently covered 
 •	Almost 20% small micron Particles (size 50-55 micron) which are more effective and efficient evaporate easily before reaching to target in more than 30°C ambient temperature and natural air wind which is very common in most of countries. This mechanism ensures reach of small micron particles sprayed in environment up to 40°C to 45°C ambient temperature
 •	Saves money & economical compared to others (low consumption of sanitizing/disinfectant solutions)
