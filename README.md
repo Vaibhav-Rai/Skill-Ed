@@ -39,7 +39,7 @@ Based on the nature's law, wherein Opposite charges attract and Like charges rep
 Hypochlorous acid (HOCL) is a green, safe, environmentally friendly and fully biodegradable liquid which acts as a very powerful antimicrobial and sterilizing solution. It is considered part of the engineered (electrolyzed) water category of products and can be used for sanitizing and disinfecting. HOCL is able to provide safe and superior disinfection capabilities for any tasks that the current commercially widespread disinfectant solution classes viz., Sodium Hypochlorite (Chlorine Bleach), Hydrogen Peroxide products and Quaternary Ammonium Compounds (aka quats) are already used for. However, because of its very short life (up to 4 hours), it needs to be made from a machine on-site and on-demand for usage, which has limited its commercial applications.
 
 ### Concept Image
-
+![Electrostatic Spray Gun](https://images.app.goo.gl/2L3T3Min8wEPTkkCA)
 
 
 **Bold** and _Italic_
